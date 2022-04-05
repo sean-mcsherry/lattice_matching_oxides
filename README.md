@@ -9,3 +9,6 @@ Download our code:
 git clone https://github.com/sean-mcsherry/lattice_matching_oxides.git
 ```
 Open the interactive notebook [**find_new_films.ipynb**](find_new_films.ipynb), and follow the steps in the tutorial. 
+
+
+### Requirements
