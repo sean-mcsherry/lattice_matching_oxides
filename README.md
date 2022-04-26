@@ -12,3 +12,4 @@ Open the interactive notebook [**find_new_films.ipynb**](find_new_films.ipynb), 
 
 
 ### Requirements
+This code uses the materials project api, pandas, and math. 
